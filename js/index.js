@@ -124,7 +124,7 @@ timeline
 
 
 var options = {
-  strings: ["<i>First</i> sentence.", "&amp; a second sentence."],
+    strings: ["In touch with me: strongwalter2014@gmail.com", "联系我：strongwalter2014@gmail.com"],
   typeSpeed: 40
 }
 
