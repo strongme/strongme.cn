@@ -10,3 +10,8 @@ path {
   stroke-linecap: round;
   stroke-linejoin: round;
 }
+
+.strongme {
+    width: 100%;
+    margin: 0 0;
+}
