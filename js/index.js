@@ -128,7 +128,7 @@ var options = {
   typeSpeed: 40
 }
 
-var typed = new Typed(".strongme", options);
+//var typed = new Typed(".strongme", options);
 
 
 
